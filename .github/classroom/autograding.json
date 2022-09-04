@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "student.encapsulation()",
+      "setup": "npm install",
+      "run": "npm run test student.encapsulation.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "student.constructor()",
+      "setup": "",
+      "run": "npm run test student.constructor.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "student.setName()",
+      "setup": "",
+      "run": "npm run test student.setName.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "student.getBirthDate()",
+      "setup": "",
+      "run": "npm run test student.getBirthDate.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "grade.encapsulation()",
+      "setup": "",
+      "run": "npm run test grade.encapsulation.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "grade.constructor()",
+      "setup": "",
+      "run": "npm run test grade.constructor.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "grade.setGrade()",
+      "setup": "",
+      "run": "npm run test grade.setGrade.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "grade.getAverage()",
+      "setup": "",
+      "run": "npm run test grade.getAverage.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "grade.getAsString()",
+      "setup": "",
+      "run": "npm run test grade.getAsString.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
